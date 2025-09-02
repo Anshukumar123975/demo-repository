@@ -11,7 +11,7 @@ const divideFunction = function(a, b){
     return a/b;
 }
 const helloWorldFunction = function(){
-    console.log("Hello World")
+    console.log("Hello World how are you")
 }
 const atobFunction = function(a, b){
     for(let i=a;i<=b;i++){
