@@ -8,8 +8,7 @@ const multiplyFunction = function(a, b){
     return a*b;
 }
 const divideFunction = function(a, b){
-    let result=a/b;
-    return result;
+    return a/b;
 }
 const helloWorldFunction = function(){
     console.log("Hello World")
