@@ -23,4 +23,4 @@ console.log(subractFunction(3,2));
 console.log(multiplyFunction(2,3));
 console.log(divideFunction(6,2));
 helloWorldFunction();
-atobFunction(1,5);
+atobFunction(1,6);
